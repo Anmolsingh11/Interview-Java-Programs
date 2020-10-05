@@ -37,7 +37,7 @@ class Examples
 	System.out.println("Reverse of String "+ str+ "is: "+input);
 	}
 
-	// Armstrong Number----
+	// Armstrong Number---- A number is an Armstrong number if reverse of that number is equals to itself.
 	public void num(){
 	System.out.println("This Program is used to check whether a number is Armstrong or Not---");
 	System.out.print("Enter any Number: ");
